@@ -1,3 +1,3 @@
 # Time-Series
 
-This repo is for exploration **time series analysis**
+This repo is for exploration on **time series analysis**
